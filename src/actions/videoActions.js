@@ -27,7 +27,6 @@ export const setVideoDetailAction = (videoDetail) => ({
 });
 
 export const getVideoDetails = (videoId) => async (dispatch) => {
-  
   try {
     const response = await axios.get(
       `${baseUrl}/videos/info?videoId=${videoId}`
@@ -67,7 +66,6 @@ export const deleteVideo = (videoId) => async (dispatch) => {
           Authorization: token,
         },
       });
-      console.log(videoId);
       window.alert("Video deletado com sucesso");
       dispatch(getAllVideos());
     }
