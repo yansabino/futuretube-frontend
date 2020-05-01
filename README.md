@@ -8,9 +8,9 @@ Sobre a divisão dos arquivos, há dois grandes setores. Os `components` são os
 O FutureTube é um projeto que reproduz basicamente o Youtube, mostrando a tela inicial como landing page, nela é possivel fazer o login ou o signup.
 Quando o Usuário está logado aparecem as opções de fazer o upload de um  vídeo: 
 
-Nessa opção é necessario que o usuário acesse a página do vídeo a ser adicionado e copie a URL Embed desse vídeo. como seguem nas imagens abaixo: 
+Nessa opção é necessario que o usuário acesse a página do vídeo a ser adicionado e copie a URL Embed desse vídeo.
 
-
+Também é possivel Alterar a Senha do Usuario, Deletar um vídeo e fazer o Logout.
 
 Para intregrar com a API externa basta basta usar a URL Base: https://mt5jvqqlt0.execute-api.us-east-1.amazonaws.com/v1
 
