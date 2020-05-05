@@ -17,7 +17,10 @@ Também é possivel Alterar a Senha do Usuario, Deletar um vídeo e fazer o Logo
 - Link para acessar o App: [Site](http://futuretube-yan.s3-website-us-east-1.amazonaws.com/)
 
 ## Instruções para rodar
-Por ser um projeto com ReactJS, há a necessidade do NodeJS. Clone o Repositório e com ele em sua máquina, basta abrir o terminal e navegar até o repositório e rodar:
+Por ser um projeto com ReactJS, há a necessidade do NodeJS. 
+Clone o Repositório e com ele em sua máquina: `git clone https://github.com/yansabino/futuretube-frontend.git`
+Agora basta abrir o terminal e navegar até o repositório: `cd futuretube-frontend`
+E então instala-lo e rodar-lo:
 1. `npm install` para instalar todas as dependências;
 2. `npm run start` para rodar localmente o projeto
 3. `npm run build` para gerar uma versão estática do projeto (que ficará na pasta `build`)
