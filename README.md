@@ -12,7 +12,9 @@ Nessa opção é necessario que o usuário acesse a página do vídeo a ser adic
 
 Também é possivel Alterar a Senha do Usuario, Deletar um vídeo e fazer o Logout.
 
-Para intregrar com a API externa basta basta usar a URL Base: https://mt5jvqqlt0.execute-api.us-east-1.amazonaws.com/v1
+Para intregrar com a API externa basta basta usar a URL Base: [API](https://mt5jvqqlt0.execute-api.us-east-1.amazonaws.com/v1)
+
+Link para acessar o App: [Site](http://futuretube-yan.s3-website-us-east-1.amazonaws.com/)
 
 ## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Clone o Repositório e com ele em sua máquina, basta abrir o terminal e navegar até o repositório e rodar:
