@@ -1,7 +1,7 @@
 # FutureTube - FrontEnd
 
 ## Stack
-Esse é um projeto de Frontend Web feito utilizando ReactJS e Redux; e como gerenciador de pacotes do NodeJS o npm.
+Esse é um projeto de Frontend Web feito utilizando [ReactJS](https://reactjs.org/) e [Redux](https://redux.js.org/); e como gerenciador de pacotes do NodeJS o [npm](https://www.npmjs.com/).
 Sobre a divisão dos arquivos, há dois grandes setores. Os `components` são os componentes em si do meu projeto (Header, Barra Lateral, Cards de Vídeo e outros). Já os `Containers` são as páginas em si e podem ser pensadas como a união dos componentes para se mostrar na tela.
 
 ## Sobre
